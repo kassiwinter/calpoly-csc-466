@@ -1,9 +1,10 @@
 # CSC/CPE 466: Knowledge Discovery from Data
+
 This course addressed implementation of data mining, machine learning, and social network analysis algorithms, covering information retrieval, supervised/unsupervised learning, and collaborative filtering.
 
 
 ## Course Schedule
-## Tables
+
 ```markdown
 | Date           | Topics                                         |
 |----------------|------------------------------------------------|
@@ -18,10 +19,11 @@ This course addressed implementation of data mining, machine learning, and socia
 | May 27-31      | Unsupervised Learning, Collaborative Filtering |
 
 ## Repository Structure
+
 `inline code`
 
 ```python
-# Code block with syntax highlighting
+
 CSC466-Knowledge-Discovery/
 ├── README.md
 ├── labs/
@@ -59,6 +61,7 @@ CSC466-Knowledge-Discovery/
 - Lab 8: Unsupervised Learning Techniques
 
 ## Getting Started
+
 *Each lab directory contains its own README with specific instructions, requirements, and implementation details.*
 To run any lab:
 1. Navigate to the specific lab directory

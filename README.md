@@ -5,7 +5,6 @@ This course addressed implementation of data mining, machine learning, and socia
 
 ## Course Schedule
 
-```markdown
 | Date           | Topics                                         |
 |----------------|------------------------------------------------|
 | April 3-5      | Introduction, Information Retrieval            |
@@ -20,9 +19,8 @@ This course addressed implementation of data mining, machine learning, and socia
 
 ## Repository Structure
 
-`inline code`
 
-```python
+```
 
 CSC466-Knowledge-Discovery/
 ├── README.md
@@ -48,21 +46,23 @@ CSC466-Knowledge-Discovery/
 │   └── lecture-notes/
 └── data/
 
+```
 
-## Labs Overview
+## Lab Overview
 
-- Lab 1: Information Retrieval Basics
-- Lab 2: Advanced Information Retrieval
-- Lab 3: Link Analysis
-- Lab 4: Association Rules Mining
-- Lab 5: Decision Trees Implementation
-- Lab 6: Supervised Learning Foundations
-- Lab 7: Advanced Supervised Learning
-- Lab 8: Unsupervised Learning Techniques
+1. Lab 1: Information Retrieval Basics
+2. Lab 2: Advanced Information Retrieval
+3. Lab 3: Link Analysis
+4. Lab 4: Association Rules Mining
+5. Lab 5: Decision Trees Implementation
+6. Lab 6: Supervised Learning Foundations
+7. Lab 7: Advanced Supervised Learning
+8. Lab 8: Unsupervised Learning Techniques
 
 ## Getting Started
 
 *Each lab directory contains its own README with specific instructions, requirements, and implementation details.*
+
 To run any lab:
 1. Navigate to the specific lab directory
 2. Follow the README instructions for setup and execution
@@ -70,6 +70,5 @@ To run any lab:
 
 ## Course Information
 Instructor: Dr. Lubomir Stanchev
-Teaching Assistant: Zachary Weinfeld
 
-Contributing
+Teaching Assistant: Zachary Weinfeld
